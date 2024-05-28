@@ -1,0 +1,29 @@
+{
+    "SERVICE_CATEGORY": {
+        "AIRCON_SERVICE": "Aircon Services",
+        "ELECTRICIAN_SERVICE": "Electrician Services",
+        "PLUMBING_SERVICE": "Plumbing Services"
+    },
+    "SERVICES": {
+        "AIRCON_STANDARD_CLEANING": "Aircon Standard Cleaning (Remove dust, dirt and contaminants)",
+        "AIRCON_CHEMICAL_WASH": "Aircon Chemical Wash (Remove harmful microorganisms and stubborn dirt)",
+        "AIRCON_CHEMICAL_OVERHAUL": "Aircon Chemical Overhaul (Deep cleaning)",
+        "AIRCON_INSTALLATION": "Aircon Installation",
+        "AIRCON_GAS": "Aircon Gas Top-Up & Leak Fix",
+        "ELECTRICAL_INSTALLATION_WIRING_REPLACEMENT": "Electrical Installations, Wiring and Replacement (Light fixtures, Switches, Outlets)",
+        "ELECTRICAL_ISSUES_AND_APPLIANCES_REPAIR": "Electrical Issues and Appliances Repair (Ceiling Fan, Microwave, etc.)",
+        "ELECTRICAL_UPGRADES": "Electrical System, Panels and Circuit Breaker Upgrades",
+        "PLUMBING_FIXTURES_INSTALLATION": "Plumbing Fixtures Installation (Showers, Bathtubs, Sinks)",
+        "PLUMPING_VALVES_WATER_HEATER": "Plumbing Valves and Water Heater Installation, Replacement and Repair",
+        "PLUMBING_FIXTURES_REPAIR_MAINTENANCE": "Plumbing Fixtures Repair and Maintenance (Faucets, Toilets, Sinks)",
+        "PLUMBING_CLOGGED": "Clogged Drains, Sinks and Pipes Clearing",
+        "PLUMBING_REPLACEMENT_REPAIR": "Damaged or Leaking Parts Replacement or Repairs (Pipes, Toilets, Faucets)"
+    },
+    "STATUSES": {
+        "PENDING": "Pending",
+        "IN_PROGRESS": "In Progress",
+        "COMPLETED": "Completed",
+        "FAILED": "Failed",
+        "DISPUTE": "Dispute"
+    }
+}
